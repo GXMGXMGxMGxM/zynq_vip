@@ -1,0 +1,41 @@
+# 针对 Vivado 和 Vitis 项目的常见通用配置
+# 忽略备份和日志文件
+*.jou
+*.log
+*.str
+*.backup.*
+*.debug.*
+
+# 忽略 Vivado 编译和仿真生成的庞大文件夹
+.Xil/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+
+# 如果你不需要提交 ip 缓冲，可以忽略 managed_ip_project 里的生成内容
+managed_ip_project/managed_ip_project.cache/
+managed_ip_project/managed_ip_project.hw/
+managed_ip_project/managed_ip_project.sim/
+managed_ip_project/managed_ip_project.ip_user_files/
+
+# Vitis / SDK 生成的硬件平台和临时文件
+vitis_prj/tempdsa/
+vitis_prj/RemoteSystemsTempFiles/
+*/Debug/
+*/Release/
+*.o
+*.elf
+*.bin
+*.bit
+*.xsa
+.metadata/
+
+# VS Code / IDE 缓存
+.vscode/
+_ide/
+.idea/
+*.swp
+*~
