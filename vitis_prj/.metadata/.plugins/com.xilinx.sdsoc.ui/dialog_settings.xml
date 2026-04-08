@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="sdx.custom.platform.repository.locations" value="/home/guoxm/isp_fpga/basic_isp/3_yolov3_tiny_acc/zynq_video_stream/vitis_prj/design_1_wrapper/export/design_1_wrapper"/>
+	<item key="sdx.custom.platform.repository.last.directory.dialog.location" value="/home/guoxm/isp_fpga/basic_isp/3_yolov3_tiny_acc/zynq_video_stream/vitis_prj/design_1_wrapper/export/design_1_wrapper"/>
+</section>
