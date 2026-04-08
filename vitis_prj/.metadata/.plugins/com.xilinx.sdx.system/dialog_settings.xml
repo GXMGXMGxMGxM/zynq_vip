@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+	<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+	<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+	<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="true"/>
+	<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+	<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+		<item value="/home/guoxm/isp_fpga/basic_isp/3_yolov3_tiny_acc/zynq_video_stream/vitis_prj"/>
+	</list>
+	<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+		<item value=""/>
+	</list>
+</section>
